@@ -1,0 +1,4 @@
+name: PilonApi
+version: '${project.version}'
+main: fr.chifouu.pilonapi.PilonApi
+authors: [ Chifouu ]
